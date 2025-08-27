@@ -1,0 +1,15 @@
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\bin\Debug\net8.0\Cns_Proyecto.exe
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\bin\Debug\net8.0\Cns_Proyecto.deps.json
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\bin\Debug\net8.0\Cns_Proyecto.runtimeconfig.json
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\bin\Debug\net8.0\Cns_Proyecto.dll
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\bin\Debug\net8.0\Cns_Proyecto.pdb
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.AssemblyInfo.cs
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.sourcelink.json
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.dll
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\refint\Cns_Proyecto.dll
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.pdb
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\Cns_Proyecto.genruntimeconfig.cache
+C:\Users\salak401\Desktop\RepasoParcial\Cns_Proyecto\obj\Debug\net8.0\ref\Cns_Proyecto.dll
